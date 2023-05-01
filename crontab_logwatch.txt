@@ -1,0 +1,1 @@
+0 8 * * *  /usr/sbin logwatch --detail high --mailto root --service vsftpd --service xrdp --service sshd --range yesterday 
